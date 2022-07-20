@@ -1,5 +1,3 @@
-# Start of program
-
 ## First of all
 Write **npm install** to install all modules 
 ## Secondly
